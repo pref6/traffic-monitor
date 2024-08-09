@@ -9,6 +9,7 @@ $ sudo apt-get install vnstat
 ```
 
 **Usage:**
+
 To run, enter this command. Instead of xxx, specify the amount of traffic and select MiB or GiB. The & sign is needed for background operation.
 ```
 $ python traffic-monitor.py xxx MiB/GiB &
