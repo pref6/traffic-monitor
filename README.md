@@ -2,6 +2,7 @@
 A simple python script that tracks the amount of traffic and notifies you when it has been exceeded. You can set your own traffic volume.
 
 **Setup:**
+
 Install ```vnstat``` if you don't have it:
 ```
 $ sudo apt-get install vnstat
